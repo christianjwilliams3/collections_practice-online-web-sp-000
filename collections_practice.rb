@@ -29,4 +29,4 @@ def kesha_maker(i)
   x
 end
 
-def find_a(i)
+def find_a(array)
