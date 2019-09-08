@@ -20,4 +20,11 @@ def reverse_array(i)
 end
 
 def kesha_maker(i)
-  
+   x = []
+  array.each do |y|
+   s = y.split("")
+   s[2] = "$"
+   x << s.join
+  end
+  x
+end
