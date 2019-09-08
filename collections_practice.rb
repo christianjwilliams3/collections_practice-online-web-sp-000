@@ -18,3 +18,6 @@ end
 def reverse_array(i)
   i.reverse!
 end
+
+def kesha_maker(i)
+  
