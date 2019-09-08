@@ -19,7 +19,7 @@ def reverse_array(i)
   i.reverse!
 end
 
-def kesha_maker(i)
+def kesha_maker(array)
    x = []
   array.each do |y|
    s = y.split("")
